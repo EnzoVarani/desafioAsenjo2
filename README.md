@@ -175,7 +175,7 @@ O projeto utiliza o **framework AFDAL/ALDAL**, desenvolvido pelo Prof. Mauricio 
 
 | Software | Versão Mínima | Link |
 |----------|---------------|------|
-| ☕ Java JDK | 11+ | [Adoptium](https://adoptium.net/) |
+| ☕ Java JDK | 11+ | [Oracle](https://www.oracle.com/java/technologies/downloads/) |
 | 🗄️ MySQL | 8.0+ | [MySQL](https://dev.mysql.com/downloads/mysql/) |
 | 🚀 Tomcat | 9.0+ | [Apache Tomcat](https://tomcat.apache.org/download-90.cgi) |
 | 💻 NetBeans | 12+ | [NetBeans](https://netbeans.apache.org/download/) |
@@ -398,19 +398,9 @@ kill -9 [PID]
 
 ---
 
-## 👨‍💻 Autor
-
-**Enzo Varani**
-
-- GitHub: [@EnzoVarani](https://github.com/EnzoVarani)
-- Email: enzo.varani@exemplo.com
-
----
-
 ## 🙏 Agradecimentos
 
-- Prof. Mauricio Asenjo - Framework AFDAL/ALDAL
-- CAMPS Santos - Ambiente de desenvolvimento
+- Prof. Mauricio Asenjo
 
 ---
 
@@ -418,6 +408,6 @@ kill -9 [PID]
 
 ### ⭐ Se este projeto foi útil, considere dar uma estrela!
 
-**Desenvolvido com ☕ e 💙 por Enzo Varani**
+**Desenvolvido com ☕**
 
 </div>
